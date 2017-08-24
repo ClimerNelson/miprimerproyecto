@@ -1,4 +1,7 @@
 Nombres: Climer Nelson
 Apellidos: Campos Arca
 Sexo: masculino
+Carrera: Informatica
+Instituto: San Pedro
+Ciclo: VI
 
